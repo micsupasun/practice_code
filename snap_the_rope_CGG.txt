@@ -1,0 +1,60 @@
+"""Snap the Ropes
+There are n ropes in a row at positions numbered from 1 through n inclusive. There is an array, newtons[n], that
+contains an integer indicating the number of newtons required to snap a rope. (A newton unit a unit of force).
+
+There are two weights, one big and one small. The big weight can snap any rope when attached and dropped. The small
+weight reduces the number of newtons by 1 each time it is dropped attached to a rope. For example, a rope which
+requires 3 newtons of force to snap will take 1 drop with the big weight and 3 drops with the small weight. There is a
+limit to how many times the big weight can be used.
+
+Determine 3 values:
+1.	The minimum number of drops to snap all the ropes.
+2.	The 0-based indices of the ropes snapped by the big weight sorted ascending
+3.	The 0-based indices of the ropes snapped by the small weight sorted ascending
+
+Return the values as a 2-dimensional integer array [[total_drops], [big_weight_drops], [small_weight_drops]]. If a
+weight is not used its index array should be [-1].
+
+Examples:
+
+big_weights = 0
+newtons = [2]
+
+The big weight cannot be used. The small weight takes two drops to snap the single rope at index 0. The return array
+is [2], [-1], [0]]
+
+big_weights = 4
+newtons = [3, 2, 5, 4, 6, 7, 9]
+
+In this case it is best to use the big weight on the ropes at sorted indices [2, 4, 5, 6], using 4 drops to snap them
+all. The small weight is used on sorted indices [0, 1, 3] which have newtons of 2, 3 and 4. It takes a total of
+2+3+4 = 9 drops with the small weight. The total drops required = 4+9=13. The return array
+is [[13], [2, 4, 5, 6], [0, 1, 3]].
+
+Complete the function snap_the_top below.
+"""
+
+
+def snap_the_ropes(big_weights, newtons):
+    """
+    Arguments:
+
+    big_weights (int): The maximum number of drops with the big weight
+    newtons (list): The newtons required to snap each rope
+
+    Returns:
+    list [[1],[p],[q]]: in the form [[total_drops], [sorted indices for big weight drops],
+    [sorted indices for small weight drops]
+
+    Constraints
+    •	1 <= n <= 2*105
+    •	0 <= bigWeights <= 2*105
+    •	1 <= newtons[i] <= 2*109
+    •	Elements in newtons[n] are distinct
+    """
+
+
+
+
+
+
