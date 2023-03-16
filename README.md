@@ -35,7 +35,7 @@ is [[13], [2, 4, 5, 6], [0, 1, 3]].
 Complete the function snap_the_top below.
 
 def snap_the_ropes(big_weights, newtons):
-    Arguments:
+    <!-- Arguments: -->
 
     big_weights (int): The maximum number of drops with the big weight
     newtons (list): The newtons required to snap each rope
