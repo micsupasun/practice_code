@@ -1,2 +1,2 @@
 # practice code
-this is for practice and improve code skill
+This is for practice to improve code skills.
