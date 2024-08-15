@@ -1,0 +1,296 @@
+,2024 RANK,2023 RANK,Institution Name,Country
+0,rank display,rank display2,institution,location
+7,7,9,ETH Zurich - Swiss Federal Institute of Technology,Switzerland
+8,8,11,National University of Singapore (NUS),Singapore
+17,17,12,Peking University,China (Mainland)
+24,24,26,Université PSL,France
+25,25,14,Tsinghua University,China (Mainland)
+26,26,19,"Nanyang Technological University, Singapore (NTU)",Singapore
+27,26,21,The University of Hong Kong,Hong Kong SAR
+29,28,23,The University of Tokyo,Japan
+36,36,16,EPFL,Switzerland
+37,37,49,Technical University of Munich,Germany
+38,38,48,Institut Polytechnique de Paris,France
+41,41,29,Seoul National University,South Korea
+44,44,42,Zhejiang University,China (Mainland)
+46,46,36,Kyoto University,Japan
+47,47,61,Delft University of Technology,Netherlands
+49,47,38,The Chinese University of Hong Kong (CUHK),Hong Kong SAR
+50,50,34,Fudan University,China (Mainland)
+51,51,46,Shanghai Jiao Tong University,China (Mainland)
+53,53,58,University of Amsterdam,Netherlands
+54,54,59,Ludwig-Maximilians-Universität München,Germany
+56,56,42,KAIST - Korea Advanced Institute of Science & Technology,South Korea
+59,59,60,Sorbonne University,France
+60,60,40,The Hong Kong University of Science and Technology,Hong Kong SAR
+61,61,76,KU Leuven,Belgium
+65,65,65,The Hong Kong Polytechnic University,Hong Kong SAR
+66,65,70,Universiti Malaya (UM),Malaysia
+68,68,87,The University of Auckland,New Zealand
+69,69,77,National Taiwan University (NTU),Taiwan
+70,70,54,City University of Hong Kong,Hong Kong SAR
+71,71,69,Université Paris-Saclay,France
+74,73,89,KTH Royal Institute of Technology ,Sweden
+77,76,73,Yonsei University,South Korea
+79,79,74,Korea University,South Korea
+80,80,68,Osaka University,Japan
+81,81,98,"Trinity College Dublin, The University of Dublin",Ireland
+85,85,95,Lund University,Sweden
+86,85,115,Universidade de São Paulo,Brazil
+87,87,75,Lomonosov Moscow State University,Russia
+88,87,65,Ruprecht-Karls-Universität Heidelberg,Germany
+91,91,55,Tokyo Institute of Technology (Tokyo Tech),Japan
+92,91,83,University of Zurich,Switzerland
+94,93,104,Universidad Nacional Autónoma de México (UNAM),Mexico
+95,95,67,Universidad de Buenos Aires (UBA),Argentina
+98,98,118,Freie Universitaet Berlin,Germany
+100,100,71,Pohang University of Science And Technology (POSTECH),South Korea
+103,103,121,Pontificia Universidad Católica de Chile (UC),Chile
+105,105,128,Uppsala University,Sweden
+106,106,147,RWTH Aachen University,Germany
+107,107,82,University of Copenhagen,Denmark
+108,107,112,Utrecht University,Netherlands
+109,109,116,Aalto University,Finland
+113,113,79,Tohoku University,Japan
+115,115,106,University of Helsinki,Finland
+117,117,101,University of Oslo,Norway
+118,118,153,Stockholm University,Sweden
+119,119,141,"KIT, Karlsruhe Institute of Technology",Germany
+120,120,131,Humboldt-Universität zu Berlin,Germany
+121,121,104,Technical University of Denmark,Denmark
+123,123,139,Politecnico di Milano,Italy
+124,124,138,Eindhoven University of Technology,Netherlands
+125,124,136,University of Basel,Switzerland
+126,126,131,Leiden University,Netherlands
+127,126,120,University of Bern,Switzerland
+128,128,125,University of Geneva,Switzerland
+129,129,125,Chalmers University of Technology,Sweden
+131,130,151,University of Vienna,Austria
+134,134,171,Sapienza University of Rome,Italy
+137,137,143,Universiti Sains Malaysia (USM),Malaysia
+138,137,94,University of Science and Technology of China,China (Mainland)
+139,139,145,University of Groningen,Netherlands
+141,141,133,Nanjing University,China (Mainland)
+143,143,161,Aarhus University,Denmark
+144,143,106,King Abdulaziz University (KAU),Saudi Arabia
+147,145,99,Sungkyunkwan University(SKKU),South Korea
+149,149,172,Indian Institute of Technology Bombay (IITB),India
+150,149,178,Universitat Autònoma de Barcelona,Spain
+152,151,124,Wageningen University & Research,Netherlands
+154,154,167,Alma Mater Studiorum - University of Bologna,Italy
+156,154,158,Technische Universität Berlin (TU Berlin),Germany
+158,158,123,Universiti Putra Malaysia (UPM),Malaysia
+159,159,143,Ghent University,Belgium
+160,159,167,Universidad de Chile,Chile
+161,159,129,Universiti Kebangsaan Malaysia (UKM),Malaysia
+164,164,157,Hanyang University,South Korea
+165,164,135,Kyushu University,Japan
+166,164,184,Universitat de Barcelona,Spain
+171,171,226,Complutense University of Madrid,Spain
+172,171,181,University College Dublin,Ireland
+173,173,208,Qatar University,Qatar
+175,173,237,University of Cape Town,South Africa
+176,176,208,Erasmus University Rotterdam ,Netherlands
+177,176,112,Nagoya University,Japan
+180,180,160,King Fahd University of Petroleum & Minerals,Saudi Arabia
+181,180,195,Université catholique de Louvain (UCLouvain),Belgium
+184,184,111,École Normale Supérieure de Lyon,France
+185,184,179,Technische Universität Wien,Austria
+186,184,170,Tecnológico de Monterrey,Mexico
+187,187,185,University of Gothenburg,Sweden
+188,188,203,Universiti Teknologi Malaysia ,Malaysia
+191,189,210,Universite libre de Bruxelles,Belgium
+192,192,189,Albert-Ludwigs-Universitaet Freiburg,Germany
+193,192,174,Ecole des Ponts ParisTech,France
+194,194,194,Wuhan University,China (Mainland)
+196,196,141,Hokkaido University,Japan
+197,197,174,Indian Institute of Technology Delhi (IITD),India
+198,198,220,Universidad de los Andes,Colombia
+200,199,215,Universidad Autónoma de Madrid,Spain
+201,199,205,Waseda University,Japan
+203,203,237,King Saud University,Saudi Arabia
+205,205,228,Universität Hamburg,Germany
+206,206,217,University of Otago,New Zealand
+207,207,214,Vrije Universiteit Amsterdam,Netherlands
+210,210,212,University of Twente,Netherlands
+211,211,224,Chulalongkorn University,Thailand
+213,213,169,Eberhard Karls Universität Tübingen,Germany
+214,214,197,Keio University,Japan
+215,215,260,Tel Aviv University,Israel
+216,216,212,Tongji University,China (Mainland)
+217,217,202,National Yang Ming Chiao Tung University,Taiwan
+219,219,243,Università di Padova,Italy
+220,220,210,Universidade Estadual de Campinas (Unicamp),Brazil
+221,220,203,University of Lausanne,Switzerland
+222,222,232,Radboud University ,Netherlands
+225,225,155,Indian Institute of Science,India
+226,226,252,American University of Beirut (AUB),Lebanon
+227,226,243,Universidad Nacional de Colombia,Colombia
+228,228,224,National Cheng Kung University (NCKU),Taiwan
+229,229,340,Friedrich-Alexander-Universität Erlangen-Nürnberg,Germany
+230,230,150,Al-Farabi Kazakh National University,Kazakhstan
+231,230,181,Khalifa University of Science and Technology,United Arab Emirates
+232,232,215,University of Göttingen,Germany
+234,233,177,National Tsing Hua University,Taiwan
+236,236,248,Université de Paris-Cité,France
+238,237,248,Universitas Indonesia,Indonesia
+239,239,292,Massey University,New Zealand
+240,239,201,Rheinische Friedrich-Wilhelms-Universität Bonn,Germany
+241,241,275,Victoria University of Wellington,New Zealand
+246,246,275,Technical University of Darmstadt,Germany
+247,246,200,Technische Universität Dresden,Germany
+248,248,288,Charles University,Czech Republic
+249,248,280,University of Antwerp,Belgium
+250,250,331,University of Waikato,New Zealand
+251,251,222,The Hebrew University of Jerusalem,Israel
+252,252,325,Politecnico di Torino,Italy
+253,253,274,University of Porto,Portugal
+254,254,304,University of Macau,Macau SAR
+256,256,217,Harbin Institute of Technology,China (Mainland)
+257,256,278,Maastricht University ,Netherlands
+258,256,284,University of Canterbury | Te Whare Wānanga o Waitaha,New Zealand
+259,259,251,Vrije Universiteit Brussel (VUB),Belgium
+262,262,284,University of Warsaw ,Poland
+263,263,231,Gadjah Mada University,Indonesia
+265,264,428,University of Witwatersrand,South Africa
+266,266,197,Ulsan National Institute of Science and Technology (UNIST),South Korea
+267,266,335,University of Lisbon ,Portugal
+268,268,320,Linköping University,Sweden
+270,268,335,University of Cologne,Germany
+271,271,270,Indian Institute of Technology Kharagpur (IIT-KGP),India
+272,272,262,Beijing Normal University ,China (Mainland)
+275,275,306,Huazhong University of Science and Technology,China (Mainland)
+276,276,324,University of Milan,Italy
+278,278,264,Indian Institute of Technology Kanpur (IITK),India
+280,280,253,University of Navarra,Spain
+281,281,235,Bandung Institute of Technology (ITB),Indonesia
+282,281,207,University of Bergen,Norway
+283,283,454,Stellenbosch University,South Africa
+284,284,284,Taylor's University,Malaysia
+285,285,250,Indian Institute of Technology Madras (IITM),India
+288,285,307,Tianjin University,China (Mainland)
+289,289,270,University of Galway,Ireland
+290,290,296,United Arab Emirates University,United Arab Emirates
+291,291,302,Xi’an Jiaotong University,China (Mainland)
+292,292,352,Norwegian University of Science And Technology,Norway
+293,292,303,University College Cork,Ireland
+294,294,317,Université Grenoble Alpes,France
+295,295,281,Hong Kong Baptist University,Hong Kong SAR
+300,300,284,UCSI University,Malaysia
+301,301,226,Southern University of Science and Technology,China (Mainland)
+302,302,328,Goethe-University Frankfurt am Main,Germany
+304,304,293,Jagiellonian University,Poland
+306,306,412,University of Johannesburg,South Africa
+307,307,,Daegu Gyeongbuk Institute of Science and Technology (DGIST),South Korea
+309,307,361,Universiti Teknologi PETRONAS (UTP),Malaysia
+311,310,,Hamad Bin Khalifa University,Qatar
+312,310,233,Universitat Pompeu Fabra (Barcelona),Spain
+313,312,355,Universität Stuttgart,Germany
+315,313,392,University of Oulu,Finland
+316,315,363,Quaid-i-Azam University,Pakistan
+317,315,270,Saint Petersburg State University,Russia
+318,315,291,University of Turku,Finland
+320,319,230,Bauman Moscow State Technical University,Russia
+321,319,259,Sciences Po ,France
+322,319,320,Universidad Carlos III de Madrid (UC3M),Spain
+324,323,267,Sun Yat-sen University,China (Mainland)
+326,323,591-600,University of Pretoria,South Africa
+328,326,347,University of Southern Denmark (SDU),Denmark
+330,328,288,Gwangju Institute of Science and Technology (GIST),South Korea
+331,328,300,Université Paris 1 Panthéon-Sorbonne ,France
+332,328,240,USI - Università della Svizzera italiana,Switzerland
+333,332,270,Kyung Hee University,South Korea
+335,334,380,Sharif University of Technology,"Iran, Islamic Republic of"
+336,335,416,University of Naples - Federico II,Italy
+337,336,330,Aalborg University,Denmark
+338,336,501-510,Middle East Technical University,Turkey
+339,336,363,Pontificia Universidad Católica del Perú,Peru
+341,340,355,Beijing Institute of Technology,China (Mainland)
+343,342,295,RUDN University,Russia
+345,344,501-510,University of Aveiro,Portugal
+346,345,369,Airlangga University,Indonesia
+348,347,422,National Technical University of Athens,Greece
+349,347,382,Pontificia Universidad Javeriana,Colombia
+350,349,488,Universidad Politécnica de Madrid (UPM),Spain
+351,349,404,University of Pisa,Italy
+352,351,388,Lappeenranta-Lahti University of Technology LUT,Finland
+353,351,438,University of Coimbra,Portugal
+355,354,343,Universitat Politècnica de Catalunya · BarcelonaTech (UPC),Spain
+356,355,277,L.N. Gumilyov Eurasian National University (ENU),Kazakhstan
+357,355,406,Sichuan University,China (Mainland)
+358,355,312,University of Tsukuba,Japan
+359,358,460,University of Florence,Italy
+360,358,296,University of Tartu,Estonia
+361,360,396,Shandong University,China (Mainland)
+362,360,501-510,University of Tehran,"Iran, Islamic Republic of"
+363,362,368,Lincoln University ,New Zealand
+364,362,308,Universität Innsbruck,Austria
+365,364,369,American University of Sharjah,United Arab Emirates
+366,364,384,Indian Institute of Technology Guwahati (IITG),India
+367,364,475,University of Turin,Italy
+368,367,334,National University of Sciences And Technology (NUST) Islamabad,Pakistan
+369,368,473,University of Cyprus (UCY),Cyprus
+370,369,369,Indian Institute of Technology Roorkee (IITR),India
+372,371,551-560,Cairo University,Egypt
+373,371,398,Tilburg University,Netherlands
+374,371,333,Universidade Federal do Rio de Janeiro,Brazil
+377,375,443,Amirkabir University of Technology,"Iran, Islamic Republic of"
+379,375,416,Ruhr-Universität Bochum,Germany
+382,381,,University of Luxembourg,Luxembourg
+383,382,256,Mahidol University,Thailand
+384,382,501-510,Université de Montpellier,France
+385,384,378,Nankai University,China (Mainland)
+386,384,384,Westfälische Wilhelms-Universität Münster ,Germany
+388,387,490,Aix-Marseille University,France
+389,387,288,Belarusian State University,Belarus
+391,387,327,National Taiwan University of Science and Technology (Taiwan Tech),Taiwan
+392,387,256,Universiti Brunei Darussalam (UBD),Brunei
+393,392,457,Institut National des Sciences Appliquées de Lyon (INSA),France
+394,392,406,South China University of Technology,China (Mainland)
+395,392,408,Technion - Israel Institute of Technology,Israel
+396,392,422,Xiamen University,China (Mainland)
+397,396,490,Justus-Liebig-University Giessen,Germany
+398,396,322,Kazan (Volga region) Federal University,Russia
+400,399,308,HSE University,Russia
+402,400,551-560,Masaryk University,Czech Republic
+403,400,369,Universidade Nova de Lisboa,Portugal
+404,403,494,University of Granada,Spain
+405,404,601-650,Istanbul Technical University,Turkey
+407,404,412,University of the Philippines,Philippines
+408,407,486,Auckland University of Technology (AUT),New Zealand
+409,407,521-530,University of Delhi,India
+411,410,465,Universidad de Santiago de Chile (USACH),Chile
+417,415,267,Moscow Institute of Physics and Technology (MIPT / Moscow Phystech),Russia
+418,415,416,The American University in Cairo,Egypt
+419,418,264,Tomsk State University,Russia
+420,419,477,UNESP,Brazil
+422,421,284,Graz University of Technology,Austria
+423,421,260,Novosibirsk State University,Russia
+424,421,521-530,Université de Liège,Belgium
+425,421,434,Université de Strasbourg,France
+427,426,531-540,University of Limerick,Ireland
+428,427,551-560,Anna University,India
+429,428,347,IE University,Spain
+430,429,,Singapore University of Technology and Design,Singapore
+431,429,457,University of Trento,Italy
+432,431,477,Koç University,Turkey
+434,431,436,National Taipei University of Technology,Taiwan
+435,431,332,National Taiwan Normal University,Taiwan
+437,436,471,Dublin City University,Ireland
+438,436,551-560,Sejong University ,South Korea
+439,436,415,Tampere University,Finland
+440,436,428,University of Science and Technology Beijing,China (Mainland)
+441,436,501-510,University of St.Gallen (HSG),Switzerland
+442,440,410,Julius-Maximilians-Universität Würzburg,Germany
+446,444,601-650,National and Kapodistrian University of Athens,Greece
+449,446,350,Johannes Kepler University Linz,Austria
+451,446,,Toyota Technological Institute in Japan,Japan
+452,446,347,University of Jyväskylä,Finland
+453,451,531-540,Iran University of Science and Technology,"Iran, Islamic Republic of"
+454,452,499,Central South University,China (Mainland)
+455,452,601-650,Université Claude Bernard Lyon 1,France
+456,454,378,Czech Technical University in Prague,Czech Republic
+457,454,396,Indian Institute of Technology Indore (IIT Indore),India
+458,454,461,Southeast University,China (Mainland)
+459,454,384,Sultan Qaboos University,Oman
+460,454,541-550,Universität Mannheim,Germany
