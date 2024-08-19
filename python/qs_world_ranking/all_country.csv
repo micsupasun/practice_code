@@ -1,0 +1,151 @@
+,2025 Rank,2024 Rank,Institution Name,Location Full
+0,1,1,Massachusetts Institute of Technology (MIT) ,United States
+1,2,6,Imperial College London,United Kingdom
+2,3,3,University of Oxford,United Kingdom
+3,4,4,Harvard University,United States
+4,5,2,University of Cambridge,United Kingdom
+5,6,5,Stanford University,United States
+6,9,9,UCL,United Kingdom
+7,10,15,California Institute of Technology (Caltech),United States
+8,11,12,University of Pennsylvania,United States
+9,12,10,"University of California, Berkeley (UCB)",United States
+10,13,14,The University of Melbourne,Australia
+11,16,13,Cornell University,United States
+12,18,19,The University of Sydney,Australia
+13,19,19,The University of New South Wales (UNSW Sydney),Australia
+14,21,11,University of Chicago,United States
+15,22,17,Princeton University,United States
+16,23,16,Yale University,United States
+17,27,22,The University of Edinburgh,United Kingdom
+18,30,34,The Australian National University,Australia
+19,32,28,Johns Hopkins University,United States
+20,34,23,Columbia University,United States
+21,34,32,The University of Manchester,United Kingdom
+22,37,42,Monash University,Australia
+23,40,40,King's College London,United Kingdom
+24,40,43,The University of Queensland,Australia
+25,42,29,"University of California, Los Angeles (UCLA)",United States
+26,43,38,New York University (NYU),United States
+27,44,33,University of Michigan-Ann Arbor,United States
+28,50,47,Northwestern University,United States
+29,50,45,The London School of Economics and Political Science (LSE),United Kingdom
+30,54,55,University of Bristol,United Kingdom
+31,58,52,Carnegie Mellon University,United States
+32,61,57,Duke University,United States
+33,66,58,University of Texas at Austin,United States
+34,69,67,The University of Warwick,United Kingdom
+35,69,64,University of Illinois at Urbana-Champaign,United States
+36,72,62,"University of California, San Diego (UCSD)",United States
+37,76,63,University of Washington,United States
+38,77,72,The University of Western Australia,Australia
+39,78,76,University of Glasgow,United Kingdom
+40,79,73,Brown University,United States
+41,80,84,University of Birmingham,United Kingdom
+42,80,81,University of Southampton,United Kingdom
+43,82,89,The University of Adelaide,Australia
+44,82,75,University of Leeds,United Kingdom
+45,88,90,University of Technology Sydney,Australia
+46,89,78,Durham University,United Kingdom
+47,89,83,Pennsylvania State University,United States
+48,89,99,Purdue University,United States
+49,104,95,University of St Andrews,United Kingdom
+50,105,104,The University of Sheffield,United Kingdom
+51,108,100,University of Nottingham,United Kingdom
+52,108,93,Boston University,United States
+53,114,97,Georgia Institute of Technology,United States
+54,116,102,University of Wisconsin-Madison,United States
+55,120,145,Queen Mary University of London,United Kingdom
+56,123,140,RMIT University,Australia
+57,125,116,University of Southern California,United States
+58,129,110,Newcastle University,United Kingdom
+59,130,118,"University of California, Davis",United States
+60,133,130,Macquarie University,Australia
+61,141,122,Lancaster University,United Kingdom
+62,141,145,Rice University,United States
+63,150,148,University of Bath,United Kingdom
+64,152,136,Michigan State University,United States
+65,154,134,Texas A&M University,United States
+66,155,132,"University of North Carolina, Chapel Hill",United States
+67,165,176,University of Liverpool,United Kingdom
+68,167,162,University of Wollongong,Australia
+69,169,153,The University of Exeter,United Kingdom
+70,172,169,University of Reading,United Kingdom
+71,174,183,Curtin University,Australia
+72,176,154,Washington University in St. Louis,United States
+73,178,163,"University of California, Santa Barbara (UCSB)",United States
+74,179,173,"The University of Newcastle, Australia (UON)",Australia
+75,184,167,University of York,United Kingdom
+76,186,154,Cardiff University,United Kingdom
+77,196,166,Emory University,United States
+78,197,233,Deakin University,Australia
+79,200,179,Arizona State University,United States
+80,203,195,University of Minnesota Twin Cities,United States
+81,206,202,Queen's University Belfast,United Kingdom
+82,208,151,The Ohio State University,United States
+83,213,189,Queensland University of Technology (QUT),Australia
+84,215,168,University of Florida,United States
+85,217,242,La Trobe University,Australia
+86,218,169,"University of Maryland, College Park",United States
+87,224,212,Loughborough University,United Kingdom
+88,236,208,University of Aberdeen,United Kingdom
+89,236,224,University of Rochester,United States
+90,243,237,Dartmouth College,United States
+91,246,218,University of Sussex,United Kingdom
+92,248,261,Vanderbilt University,United States
+93,255,243,Griffith University,Australia
+94,256,235,Heriot-Watt University,United Kingdom
+95,259,255,Case Western Reserve University,United States
+96,275,245,University of Massachusetts Amherst,United States
+97,275,222,University of Pittsburgh,United States
+98,281,276,University of Strathclyde,United Kingdom
+99,285,272,University of Leicester,United Kingdom
+100,285,244,University of Surrey,United Kingdom
+101,291,285,Swinburne University of Technology,Australia
+102,293,285,The University of Arizona,United States
+103,293,307,University of Tasmania,Australia
+104,297,260,University of Virginia,United States
+105,298,307,Swansea University,United Kingdom
+106,301,297,Georgetown University,United States
+107,307,268,"University of California, Irvine",United States
+108,311,274,North Carolina State University,United States
+109,316,304,University of Notre Dame,United States
+110,320,264,University of Colorado Boulder,United States
+111,324,278,University of Miami,United States
+112,328,299,Rutgers University–New Brunswick,United States
+113,332,295,University of East Anglia (UEA),United Kingdom
+114,336,380,Flinders University,Australia
+115,340,326,University of South Australia,Australia
+116,342,343,Brunel University London,United Kingdom
+117,344,379,Tufts University,United States
+118,352,328,"City, University of London",United Kingdom
+119,355,313,Indiana University Bloomington,United States
+120,365,323,University of Illinois at Chicago (UIC),United States
+121,371,340,George Washington University,United States
+122,380,336,University of Kent,United Kingdom
+123,384,375, Western Sydney University,Australia
+124,389,302,Virginia Polytechnic Institute and State University,United States
+125,393,332,"University of California, Santa Cruz",United States
+126,396,375,Northeastern University,United States
+127,396,410,University of Southern Queensland ,Australia
+128,403,421,University of Canberra ,Australia
+129,408,374,"Birkbeck, University of London",United Kingdom
+130,413,369,Yeshiva University,United States
+131,416,413,Oxford Brookes University,United Kingdom
+132,418,441, University of Dundee,United Kingdom
+133,423,446,Aston University,United Kingdom
+134,436,431,Murdoch University,Australia
+135,442,409,Colorado State University,United States
+136,445,415,James Cook University,Australia
+137,452,410,University of Kansas,United States
+138,452,431,University of Stirling,United Kingdom
+139,460,396,"Stony Brook University, State University of New York",United States
+140,466,491,University at Buffalo SUNY,United States
+141,466,419,Washington State University,United States
+142,470,400,Iowa State University,United States
+143,472,459,"Essex, University of",United Kingdom
+144,474,481,Bangor University,United Kingdom
+145,477,413,Royal Holloway University of London,United Kingdom
+146,481,446,"The University of Tennessee, Knoxville",United States
+147,488,386,University of Hawai?i at M?noa,United States
+148,495,590,Central Queensland University (CQUniversity Australia),Australia
+149,497,404,"University of California, Riverside",United States
